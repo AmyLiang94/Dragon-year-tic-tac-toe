@@ -9,8 +9,8 @@
 ### Screenshots
 
 <img src="ticTacToe/src/Screenshots/One.png" width="400" height="800">
-<img src="ticTacToe/src/Screenshots/Two.png" width="300" height="200">
-<img src="ticTacToe/src/Screenshots/Three.png" width="300" height="200">
+<img src="ticTacToe/src/Screenshots/Two.png" width="400" height="800">
+<img src="ticTacToe/src/Screenshots/Three.png" width="400" height="800">
 
 
 
