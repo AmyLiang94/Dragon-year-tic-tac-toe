@@ -8,6 +8,7 @@
 
 ### Screenshots
 
+<img src="ticTacToe/src/Screenshots/One.png" width="300" height="200">
 ![](ticTacToe/src/Screenshots/One.png)
 ![](src/Screenshots/Two.png)
 ![](src/Screenshots/Three.png)
