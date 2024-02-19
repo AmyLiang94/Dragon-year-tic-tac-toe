@@ -8,9 +8,9 @@
 
 ### Screenshots
 
-!(src/Screenshots/One.png)
-!(src/Screenshots/Two.png)
-!(src/Screenshots/Three.png)
+![](src/Screenshots/One.png)
+![](src/Screenshots/Two.png)
+![](src/Screenshots/Three.png)
 
 
 ### Usage
