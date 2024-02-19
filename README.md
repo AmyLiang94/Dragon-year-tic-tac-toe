@@ -8,7 +8,7 @@
 
 ### Screenshots
 
-![](src/Screenshots/One.png)
+![](ticTacToe/src/Screenshots/One.png)
 ![](src/Screenshots/Two.png)
 ![](src/Screenshots/Three.png)
 
