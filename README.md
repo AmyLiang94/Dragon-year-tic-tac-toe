@@ -1,4 +1,4 @@
-# *Lunar New Year Tic-Tac-Toe Game*
+# ** Lunar New Year Tic-Tac-Toe Game **
 ## Welcome to the Lunar New Year Tic-Tac-Toe game! This simple web application allows players to enjoy a game of Tic-Tac-Toe while celebrating the Lunar New Year.
 
 ### Features
