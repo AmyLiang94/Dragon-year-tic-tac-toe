@@ -9,9 +9,9 @@
 ### Screenshots
 
 <img src="ticTacToe/src/Screenshots/One.png" width="400" height="800">
-![](ticTacToe/src/Screenshots/One.png)
-![](src/Screenshots/Two.png)
-![](src/Screenshots/Three.png)
+<img src="ticTacToe/src/Screenshots/Two.png" width="300" height="200">
+<img src="ticTacToe/src/Screenshots/Three.png" width="300" height="200">
+
 
 
 ### Usage
