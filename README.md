@@ -8,6 +8,11 @@
 
 ### Screenshots
 
+!(src/Screenshots/One.png)
+!(src/Screenshots/Two.png)
+!(src/Screenshots/Three.png)
+
+
 ### Usage
 #### 1. Run the application: npm run dev
 #### 2. Open your web browser and visit http://localhost:8080 to play the game.
